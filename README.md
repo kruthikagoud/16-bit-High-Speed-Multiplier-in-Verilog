@@ -62,9 +62,8 @@ All project screenshots (Simulation, Synthesis, Floorplan, Area Reports) are ava
 This project was carried out as part of the **CITD Internship (Mini Project)**.  
 
 **Team Members:**  
-- Karnam Chandra Shekar  
-- Bombothula Kruthika  
-- Chouti Poojitha  
+- Bombothula Kruthika
+- Karnam Chandra Shekar    
 - Yellu Harish Reddy  
 
 ---
